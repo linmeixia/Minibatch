@@ -1,2 +1,2 @@
-# Minibatch
-Mini batches in stochastic gradient descent via determinantal sampling of linear statistics
+# Minibatch_with_DPP
+Determinantal point processes based on orthogonal polynomials for sampling minibatches in SGD
